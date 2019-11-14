@@ -1,5 +1,5 @@
 package slution1;
-class Solution1 {
+class Slution1 {
     //穷举法一
     // 通过	36 ms	37.3 MB
     public int[] twoSum(int[] nums, int target) {
