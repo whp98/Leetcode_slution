@@ -1,8 +1,5 @@
-package solution7;
+package slution7;
 
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Slution1 {
     public static void main(String[] args) {
